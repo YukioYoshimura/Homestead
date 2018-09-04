@@ -1,1 +1,1 @@
-# SuiteCRM-Vagrant
+# Laravel / Homestead + SuiteCRM
